@@ -1,0 +1,18 @@
+@charset "UTF-8";
+body {
+    background-image: url(https://www.crandallu.ca/crandallwp20/wp-content/uploads/2020/06/DD87129_HDR-scaled.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50vh;
+    color: blanchedalmond;
+}
+ h1 {
+    font-size: 2rem;
+    text-align: center;
+} h2{
+    font-size: 1.5rem;
+} h3{
+    font-family: 'Noto Serif KR', serif;
+    font-size: 20px;
+    line-height: 1.2;
+}
